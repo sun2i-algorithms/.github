@@ -5,7 +5,7 @@
 [Blind 75 Youtube Playlists](https://www.youtube.com/playlist?list=PL1xTe1XT4wmN8GuqRtWZ3sP7dPnSSuAMn)   
 
 ## Repositories
-[Blind 75](https://github.com/sun2i-algorithms/blind75)
+[Blind 75](https://github.com/sun2i-algorithms/blind75)    
 [Structy 102](https://github.com/sun2i-algorithms/structy-102)
 
 ## Summary
