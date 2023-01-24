@@ -1,5 +1,5 @@
 # Algorithms
-[Youtube Playlist](https://www.youtube.com/playlist?list=PL1xTe1XT4wmN8GuqRtWZ3sP7dPnSSuAMn)
+[Youtube Playlist](https://www.youtube.com/playlist?list=PL1xTe1XT4wmN8GuqRtWZ3sP7dPnSSuAMn)   
 [Google Sheets](https://docs.google.com/spreadsheets/d/1Fka4gpyvTZ2yZOpCX1vsz5u9d2844t8lp-mfmEwNUuY/edit#gid=46119643)
 
 ## Summary
